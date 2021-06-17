@@ -20,7 +20,7 @@ agent.plot_knowledge()
 ```
 
 <p align="center">
-  <img width="100" src="./docs/bounds_stochastic.png">
+  <img width="500" src="./docs/bounds_stochastic.png">
 </p>
 
 
