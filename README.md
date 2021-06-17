@@ -1,4 +1,4 @@
-# Simple implementation of bandits strategies
+# Some implementation of bandits strategies
 
 * `Available agent strategies:` Stochastic (UCB, EpsilonGreedy), Adversarial (Exp3, Exp3p).
 * `Available arms:` Stochastic (Bernouilli, Beta), Adversarial examples (Oblivious, non-oblivious).
