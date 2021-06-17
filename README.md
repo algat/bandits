@@ -19,7 +19,9 @@ for k in range(1000):
 agent.plot_knowledge()
 ```
 
-![plot](./docs/bounds_stochastic.png)
+<p align="center">
+  <img width="100" src="./docs/bounds_stochastic.png">
+</p>
 
 
 ## Usage with known stochastic arms
