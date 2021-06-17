@@ -39,7 +39,9 @@ agent.plot_knowledge()
 agent.plot_regret(arms.get_best_arm_cumul_rewards(horizon=1000), label="exp3p")
 ```
 
-![plot](./docs/beta_exp3p.png)
+<p align="center">
+  <img width="800" src="./docs/beta_exp3p.png">
+</p>
 
 ## Usage with known adversarial arms
 
@@ -67,7 +69,10 @@ agent.plot_knowledge()
 agent.plot_regret(arms.get_best_arm_cumul_rewards(horizon=1000), label="exp3p")
 ```
 
-![plot](./docs/adversarial_oblivious_exp3p.png)
+<p align="center">
+  <img width="800" src="./docs/adversarial_oblivious_exp3p.png">
+</p>
+
 
 ## Run tests
 
